@@ -1,0 +1,56 @@
+[
+  {
+    "id": "faq_001",
+    "category": "Contraseñas",
+    "question": "¿Cómo puedo restablecer mi contraseña?",
+    "answer": "Puedes restablecer tu contraseña visitando la página de inicio de sesión y haciendo clic en 'Olvidé mi contraseña'. Recibirás un correo electrónico con instrucciones.",
+    "keywords": [
+      "restablecer",
+      "contraseña",
+      "olvidé",
+      "acceso"
+    ],
+    "last_updated": "2025-05-20"
+  },
+  {
+    "id": "faq_002",
+    "category": "Facturación",
+    "question": "¿Cuáles son los métodos de pago aceptados?",
+    "answer": "Aceptamos tarjetas de crédito Visa, MasterCard, American Express y también PayPal.",
+    "keywords": [
+      "pago",
+      "facturación",
+      "tarjeta",
+      "paypal"
+    ],
+    "last_updated": "2025-05-15"
+  },
+  {
+    "id": "SVC_001",
+    "productName": "Soporte Técnico Básico",
+    "description": "El Soporte Técnico Básico cubre la resolución de problemas comunes, asistencia en configuración inicial y consultas generales sobre el uso de nuestros productos. No incluye desarrollo personalizado.",
+    "scope": [
+      "Resolución de problemas comunes",
+      "Asistencia en configuración inicial",
+      "Consultas generales de uso"
+    ],
+    "limits": "Hasta 3 incidentes por mes. Horario de atención: Lunes a Viernes de 9 AM a 5 PM.",
+    "related_articles_ids": [
+      "faq_001"
+    ],
+    "last_updated": "2025-04-10"
+  },
+  {
+    "id": "SVC_002",
+    "productName": "Soporte Técnico Premium",
+    "description": "El Soporte Técnico Premium ofrece todo lo del básico, más soporte prioritario, tiempos de respuesta garantizados y asistencia para problemas más complejos.",
+    "scope": [
+      "Todo lo del Soporte Básico",
+      "Soporte prioritario",
+      "Tiempos de respuesta garantizados (SLA)",
+      "Asistencia para problemas complejos"
+    ],
+    "limits": "Incidentes ilimitados. Soporte 24/7.",
+    "last_updated": "2025-05-01"
+  }
+]
